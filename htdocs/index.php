@@ -1,6 +1,6 @@
 <?php 
 
-$page_title = 'Welcome to this Site!';
+$page_title = 'User Registration';
 include('includes/header.html');
 ?>
 
